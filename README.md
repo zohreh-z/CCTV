@@ -1,4 +1,4 @@
-##Aliramezani wesite 
+##CCTV wesite 
 The website for the **DR-Ali Ramezani** dentist
 Final project of CIW design
 
@@ -37,4 +37,4 @@ The [??????.???](http://??????.???) code and website is released under a MIT Lic
 Our sample for designing is this site : http://????????.???/
 
 
-Produced by 1schools students network (winter - summer 2012)
+Produced by 1schools students network (summer 2012)
